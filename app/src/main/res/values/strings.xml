@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">FireApp</string>
+    <string name="add_value_to_firebase">Add Value To FireBase</string>
+    <string name="already_registered_click_here_to_login">Already Registered? Click here to login</string>
+    <string name="register">Register</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="enter_email_id">Enter Email ID</string>
+    <string name="enter_your_email_id">Enter your Email ID</string>
+    <string name="login_to_cryptvault">Login to CryptVault</string>
+    <string name="forgot_your_password">Forgot Your Password</string>
+    <string name="login">Login</string>
+    <string name="enter_your_password">Enter your password</string>
+    <string name="not_registered_yet">Not Registered Yet?</string>
+    <string name="please_enter_password">Please Enter Password</string>
+</resources>
